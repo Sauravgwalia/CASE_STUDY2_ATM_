@@ -54,7 +54,7 @@ A programm for operation of ATM.
   - PIN Code - 34567
   - Mobile No - 3456789012
 
-> #### PREVIEW
+> ### PREVIEW
 
     Welcome to XXXX ATM!
 
