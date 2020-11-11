@@ -27,7 +27,7 @@ A programm for operation of ATM.
     - changePIN - Deals with changing PIN of respective account.
     - generateOTP - This methods generates a four DIGIT random OTP.
     - sendOTP - This method should take care of sending OTP to registered mobile no. Here it simply prints OTP on screen.
-    - transfer - Takes care transefer of funds b/w accounts.
+    - transfer - Takes care of funds transfer b/w accounts.
 
 - #### Atm
 
